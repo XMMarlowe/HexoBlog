@@ -5,8 +5,8 @@ echo 'start git sync'
 git status
 git add -A
 git commit -m "update..."
-git pull HexoBlog master
-git push HexoBlog master
+git pull origin master
+git push origin master
 
 echo 'start clean'
 call hexo clean
