@@ -19,3 +19,5 @@ date: 2020-10-12 20:20:20
 {% link 毕业学校, https://www.cqut.edu.cn/, https://marlowe.oss-cn-beijing.aliyuncs.com/img/20210518203630.png %}
 
 {% link 个人邮箱, mailto:marlowe246@qq.com, https://marlowe.oss-cn-beijing.aliyuncs.com/img/20210518203108.png %}
+
+{% image https://marlowe.oss-cn-beijing.aliyuncs.com/baidu/20211219153432.png::width=400px::alt=若想了解更多大厂内推资讯，请扫码关注我 %}
